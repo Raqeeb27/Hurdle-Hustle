@@ -1,8 +1,8 @@
-# Boolean Run 🎮
+# Hurdle Hustle 🎮
 
-Welcome to Boolean Run, an exciting Unity-based game where you navigate through a series of challenging levels!
+Welcome to Hurdle Hustle, an exciting Unity-based game where you navigate through a series of challenging levels!
 
-![Boolean Run Screenshot](screenshot.png)
+![Hurdle Hustle Screenshot](screenshot.png)
 
 ## Table of Contents
 - [About the Game](#about-the-game)
@@ -13,11 +13,11 @@ Welcome to Boolean Run, an exciting Unity-based game where you navigate through 
 
 ## About the Game
 
-Boolean Run is a fun and fictional game where you play as a novoice runner navigating through a digital world filled with obstacles. To progress through the levels, you must make the right decisions. Choose wisely, and you'll make it to the end!
+Hurdle Hustle is a fun and fictional game where you play as a novoice runner navigating through a digital world filled with obstacles. To progress through the levels, you must make the right decisions. Choose wisely, and you'll make it to the end!
 
 ## Gameplay
 
-- **Levels:** Currently, Boolean Run consists of 2 out of 10 challenging levels. More levels are in development.
+- **Levels:** Currently, Hurdle Hustle consists of 2 out of 10 challenging levels. More levels are in development.
 - **Life Counter:** You start with 3 lives. Lose a life each time you make a dash. Take your step wisely!
 
 ## Features
