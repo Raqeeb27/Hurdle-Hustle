@@ -1,6 +1,6 @@
 # Hurdle Hustle 🎮
 
-Welcome to Hurdle Hustle, an exciting Unity-based game where you navigate through a series of challenging levels that will test your agility and reflexes!
+Welcome to Hurdle Hustle, an exciting Unity-based game where you navigate through a series of challenging levels that will test your agility and reflexes! 🚀
 
 ![Hurdle Hustle Readme Image](https://github.com/Raqeeb27/Hurdle-Hustle/assets/117599550/c6af81e7-0022-4854-9c0a-f8de3f71b444)
 
@@ -22,7 +22,7 @@ Hurdle Hustle is a fun and fictional game where you play as a novoice runner nav
 
 - **Levels:** Currently, Hurdle Hustle consists of 2 out of 10 challenging levels. More levels are in development.
 - **Life Counter:** You start with 3 lives. Lose a life each time you make a dash. Take your step wisely!
-- **Controls: **Use the arrow keys to move your character. Press the 'Space' bar to jump over obstacles.
+- **Controls:** Use the arrow keys to move your character. Press the 'Space' bar to jump over obstacles.
 
 Try to reach the finish line while collecting power-ups and avoiding obstacles.
 
@@ -39,8 +39,8 @@ Try to reach the finish line while collecting power-ups and avoiding obstacles.
 
 We're actively working on expanding the game with more levels and exciting features. Here's the current status:
 
-- [x] Level 1 : The Beginning
-- [x] Level 2 : Into the Wilderness
+- [x] Level 1 : _The Beginning_
+- [x] Level 2 : _Into the Wilderness_
 
 ## Issues
 If you encounter any issues or have suggestions for improvement, please open an issue on this repository. We appreciate your feedback!
@@ -52,7 +52,7 @@ We welcome contributions to make Hurdle Hustle even more amazing! If you'd like 
 - Create a new branch for your feature or bug fix.
 - Make your changes and submit a pull request.
 
-Feel free to contribute to the project by adding new levels or suggesting improvements!
+_Feel free to contribute to the project by adding new levels or suggesting improvements!_
 
 
-💥 Get ready to embark on a thrilling journey through the world of Hurdle Hustle. Enjoy the game, and may you hurdle your way to victory! 🏃
+💥 **Get ready to embark on a thrilling journey through the world of Hurdle Hustle. Enjoy the game, and may you hurdle your way to victory!** 🏃
