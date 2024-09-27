@@ -2,7 +2,7 @@
 
 Welcome to Hurdle Hustle, an exciting Unity-based game where you navigate through a series of challenging levels that will test your agility and reflexes! 🚀
 
-![Hurdle Hustle Readme Image](https://github.com/Raqeeb27/Hurdle-Hustle/assets/117599550/c6af81e7-0022-4854-9c0a-f8de3f71b444)
+![Hurdle Hustle Readme Image](images/readme_image.png "Hustle Hurdle")
 
 
 ## Table of Contents
