@@ -8,12 +8,12 @@ public class LevelSelection : MonoBehaviour
 {
     public Button[] levelButtons;
     public TextMeshProUGUI[] levelNumbers;
-    
+
     void Start()
     {
         int levelReached = PlayerPrefs.GetInt("LevelReached");
-        for(int i = 0; i <= levelReached; i++){         
-            levelButtons[i].enabled = true;    
+        for(int i = 0; i <= levelReached; i++){
+            levelButtons[i].enabled = true;
             levelNumbers[i].gameObject.SetActive(true);
         }
     }
