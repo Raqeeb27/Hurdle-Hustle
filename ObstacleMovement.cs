@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 
 public class ObstacleMovement : MonoBehaviour
-{    
+{
     public string horizontal = "Horizontal Movement";
     public bool hRandomStartPositionYN;
     public int hMinPosition, hMaxPosition, hOffset;
@@ -46,10 +46,10 @@ public class ObstacleMovement : MonoBehaviour
         fRandomStartPosition = Random.Range(fMinPosition + fOffset, fMaxPosition + 1 - fOffset);
 
         if (hRandomStartPositionYN)
-            transform.position = new Vector3(hRandomStartPosition, transform.position.y, transform.position.z);      
+            transform.position = new Vector3(hRandomStartPosition, transform.position.y, transform.position.z);
 
         if (vRandomStartPositionYN)
-            transform.position = new Vector3(transform.position.x, vRandomStartPosition, transform.position.z);        
+            transform.position = new Vector3(transform.position.x, vRandomStartPosition, transform.position.z);
 
         if (fRandomStartPositionYN)
             transform.position = new Vector3(transform.position.x, transform.position.y, fRandomStartPosition);
@@ -60,7 +60,7 @@ public class ObstacleMovement : MonoBehaviour
         int hMoveDirection = isMovingRight ? 1 : -1;
         int vMoveDirection = isMovingUp ? 1 : -1;
         int fMoveDirection = isMovingForward ? 1 : -1;
-        
+
         float hMovSpeed = hRandomSpeedYN ? hRandomSpeed : hSpeed;
         transform.position += new Vector3(hMovSpeed * hMoveDirection, 0, 0) * Time.deltaTime;
 
@@ -70,14 +70,14 @@ public class ObstacleMovement : MonoBehaviour
         float fMovSpeed = fRandomSpeedYN ? fRandomSpeed : fSpeed;
         transform.position += new Vector3(0, 0, fMovSpeed * fMoveDirection) * Time.deltaTime;
 
-        if ((int)transform.position.x == (isMovingRight ? (int)hMaxPosition : (int)hMinPosition))        
-            isMovingRight = !isMovingRight;   
-        
-        if ((int)transform.position.y == (isMovingUp ? (int)vMaxPosition : (int)vMinPosition))        
-            isMovingUp = !isMovingUp;     
-        
-        if ((int)transform.position.z == (isMovingForward ? (int)fMaxPosition : (int)fMinPosition))        
-            isMovingForward = !isMovingForward;        
+        if ((int)transform.position.x == (isMovingRight ? (int)hMaxPosition : (int)hMinPosition))
+            isMovingRight = !isMovingRight;
+
+        if ((int)transform.position.y == (isMovingUp ? (int)vMaxPosition : (int)vMinPosition))
+            isMovingUp = !isMovingUp;
+
+        if ((int)transform.position.z == (isMovingForward ? (int)fMaxPosition : (int)fMinPosition))
+            isMovingForward = !isMovingForward;
     }
 }*/
 using System.Collections;
@@ -151,9 +151,6 @@ public class ObstacleMovement : MonoBehaviour
                 if ((int)transform.position.z == (settings.isMovingPositive ? settings.maxPosition : settings.minPosition))
                     settings.isMovingPositive = !settings.isMovingPositive;
             }
-
-
-            
         }
     }
 }

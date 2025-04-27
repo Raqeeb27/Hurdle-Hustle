@@ -15,7 +15,7 @@ public class Player : MonoBehaviour
     public Color greenColor, redColor;
     private bool floorCollosion = true, isNotTrigerring = true, checkNotCrossed = true, notRestart = true;
     private int lifes = 3;
-    private float lastTriggerTime = 0f, triggerCooldown = 0.3f;    
+    private float lastTriggerTime = 0f, triggerCooldown = 0.3f;
 
 
     private void OnCollisionEnter(Collision collision)

@@ -13,12 +13,12 @@ public class MainMenu : MonoBehaviour
     public TMP_InputField playerName;
     public TextMeshProUGUI speedValueText, soundValueText, musicValueText;
     public TextMeshPro playerNameDisplay;
-    
+
     public void nextLevel(){
         if(currentSceneNumber < 3){
             SceneManager.LoadScene(currentSceneNumber + 1);
             Time.timeScale = 1f;
-        
+
             if(currentSceneNumber  > PlayerPrefs.GetInt("LevelReached")){
                 PlayerPrefs.SetInt("LevelReached", currentSceneNumber - 1);
             }

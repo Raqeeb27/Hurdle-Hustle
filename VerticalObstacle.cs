@@ -23,11 +23,11 @@ public class VerticalObstacle : MonoBehaviour
     void Update()
     {
         int moveDirection = isMovingUp ? 1 : -1;
-        
+
         float movSpeed = randomSpeedYN ? randomSpeed : speed;
         transform.position += new Vector3(0, movSpeed * moveDirection, 0) * Time.deltaTime;
 
-        if ((int)transform.position.y == (isMovingUp ? (int)maxPosition : (int)minPosition))        
-            isMovingUp = !isMovingUp;        
+        if ((int)transform.position.y == (isMovingUp ? (int)maxPosition : (int)minPosition))
+            isMovingUp = !isMovingUp;
     }
-} 
+}

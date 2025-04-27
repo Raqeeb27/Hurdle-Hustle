@@ -1,7 +1,7 @@
 using UnityEngine;
 
 public class ForwordObstcle : MonoBehaviour
-{   
+{
     public bool randomStartPositionYN;
     public int minPosition, maxPosition, offset;
     public float speed;
@@ -23,11 +23,11 @@ public class ForwordObstcle : MonoBehaviour
     void Update()
     {
         int moveDirection = isMovingForward ? 1 : -1;
-        
+
         float movSpeed = randomSpeedYN ? randomSpeed : speed;
         transform.position += new Vector3(0, 0, movSpeed * moveDirection) * Time.deltaTime;
 
-        if ((int)transform.position.z == (isMovingForward ? (int)maxPosition : (int)minPosition))        
-            isMovingForward = !isMovingForward;        
+        if ((int)transform.position.z == (isMovingForward ? (int)maxPosition : (int)minPosition))
+            isMovingForward = !isMovingForward;
     }
 }
