@@ -54,5 +54,6 @@ We welcome contributions to make Hurdle Hustle even more amazing! If you'd like 
 
 _Feel free to contribute to the project by adding new levels or suggesting improvements!_
 
+<br>
 
 💥 **Get ready to embark on a thrilling journey through the world of Hurdle Hustle. Enjoy the game, and may you hurdle your way to victory!** 🏃
