@@ -4,6 +4,7 @@ Welcome to Hurdle Hustle, an exciting Unity-based game where you navigate throug
 
 ![Hurdle Hustle Readme Image](images/readme_image.png "Hustle Hurdle")
 
+<br>
 
 ## Table of Contents
 - [About the Game](#about-the-game)
