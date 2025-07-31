@@ -14,6 +14,7 @@ Welcome to Hurdle Hustle, an exciting Unity-based game where you navigate throug
 - [Issues](#issues)
 - [Contributions](#contribution)
 
+<br>
 
 ## About the Game
 
