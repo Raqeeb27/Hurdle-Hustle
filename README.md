@@ -20,6 +20,8 @@ Welcome to Hurdle Hustle, an exciting Unity-based game where you navigate throug
 
 Hurdle Hustle is a fun and fictional game where you play as a novoice runner navigating through a digital world filled with obstacles. With thrilling levels and a life counter to keep you engaged, you're in for a thrilling gaming experience! 😄
 
+<br>
+
 ## Gameplay
 
 - **Levels:** Currently, Hurdle Hustle consists of 2 out of 10 challenging levels. More levels are in development.
