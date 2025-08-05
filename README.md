@@ -30,6 +30,8 @@ Hurdle Hustle is a fun and fictional game where you play as a novoice runner nav
 
 Try to reach the finish line while collecting power-ups and avoiding obstacles.
 
+<br>
+
 ## Features
 
 - 💥 **Interactive Gameplay:** Make right choices to advance through the game.
