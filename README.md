@@ -41,6 +41,8 @@ Try to reach the finish line while collecting power-ups and avoiding obstacles.
 - 🎨 **Eye-Catching Graphics:** Enjoy a visually appealing gaming experience.
 - 🌟 **Additional Levels:** Unlock new levels and face more challenging obstacles.
 
+<br>
+
 ## Development Progress
 
 We're actively working on expanding the game with more levels and exciting features. Here's the current status:
