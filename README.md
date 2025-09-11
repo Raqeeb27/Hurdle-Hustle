@@ -50,6 +50,8 @@ We're actively working on expanding the game with more levels and exciting featu
 - [x] Level 1 : _The Beginning_
 - [x] Level 2 : _Into the Wilderness_
 
+<br>
+
 ## Issues
 If you encounter any issues or have suggestions for improvement, please open an issue on this repository. We appreciate your feedback!
 
