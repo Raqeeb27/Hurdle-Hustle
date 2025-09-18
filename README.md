@@ -55,6 +55,8 @@ We're actively working on expanding the game with more levels and exciting featu
 ## Issues
 If you encounter any issues or have suggestions for improvement, please open an issue on this repository. We appreciate your feedback!
 
+<br>
+
 ## Contribution
 We welcome contributions to make Hurdle Hustle even more amazing! If you'd like to contribute:
 
